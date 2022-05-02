@@ -27,11 +27,13 @@ In my younger years I wanted to make Games. And after I finished secondary schoo
 
 Later I've worked full time in the e-learning industry making single page applications on demand for a variety of clients and more recently I work for 888sport where I am being given many opportunities to work with many newer web technologies.
 
-From 2017 to 2019 I lived in Japan where I studied Japanese and was able to pass the Japanese-Language Proficiency Test at an N3 level.
+In October 2017 I enrolled as a full-time student for 18 months at GenkiJACS school in Fukuoka to improve my Japanese language skill as much as possible and while there I succeeded in passing the JLPT N3 examination.
+
+I really enjoy programming and learning new technologies and as a hobby I make small projects for myself. Usually these are to make my life easier in work or study but sometimes my goal is to learn something new.
 
 e: [ciankm@gmail.com](mailto:ciankm@gmail.com)
 t: [+35383 307 0180](tel://+353833070180)  
-w: [ciankm.com](http://ciankm.com) | [GitHub](https://github.com/CianMclennan)
+w: [ciankm.com](https://ciankm.com) | [GitHub](https://github.com/CianMclennan)
 
 #### I do
 
