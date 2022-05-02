@@ -20,12 +20,12 @@ I like building things.
 
 ::: section introduction
 
-I'm a software engineer who is commited to learning and improving their craft. 
+I'm a software engineer who is committed to learning and improving their craft. 
 From a young age I have been passionate about all things related to technology and software and as I have grown so has my passion.
 
 In my younger years I wanted to make Games. And after I finished secondary school I went on to do a course in Video Games development. During this time I realised that I had more interest in making software than games. So decided to get my degree in Computer Science.
 
-Later I've worked full time in the e-learning industry making single page applications on demand for a variety of clients and more recently I work for 888sport where I am being given many opertunities to work with many newer web technologies.
+Later I've worked full time in the e-learning industry making single page applications on demand for a variety of clients and more recently I work for 888sport where I am being given many opportunities to work with many newer web technologies.
 
 From 2017 to 2019 I lived in Japan where I studied Japanese and was able to pass the Japanese-Language Proficiency Test at an N3 level.
 
@@ -140,7 +140,7 @@ Instructional Designers and other Programmers.
 #### Allied Irish Banks (AIB) **June 2012 – May 2013**
 ##### **Graduate IT Consultant, Dublin** | _Ireland_
 
-- Worked with the AIB branch software Team to create and maintain branch software. Responsible for Administering the Continuous integrations server and Communicating with the programmers.
+- Worked with the AIB branch software Team to create and maintain branch software. Responsible for Administering the Continuous-Integration server and Communicating with the programmers.
 - Debugged and fixed Issues with AIB’s Document Management System that was developed in house using an IBM Webshere Java Application as a back end and Libre Office on the client side.
 - Provided 3rd level software support for specific web apps used in AIB branches.
 - Created batch scripts to automate workflow for many members of the Branch software team.
@@ -184,6 +184,7 @@ Certificate in Teaching English to Speakers of Other Languages 2015 – Learned 
 
 This page uses no Javascript and is hand-coded using Sass, [Open Props](https://open-props.style/) & Markdown.
 
-You can view the source for this website on [Github](https://github.com/CianMclennan/resume-site).
+You can view the source for this website on [GitHub](https://github.com/CianMclennan/resume-site).
 
 </footer>
+
