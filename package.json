@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "build:base": "cp -r ./public/* ./build",
+    "build:base": "cp -a ./public/.htaccess ./build",
     "build:markdown": "node src/index.js",
     "build:styles": "node-sass src/styles -o build --output-style=compressed",
     "build": "rimraf build && mkdir -p build && echo 'BUILDING...' && npm-run-all --parallel build:base build:markdown build:styles"

@@ -15,8 +15,9 @@
 }
 
 @mixin ticker-animation($number-of-lines, $line-height) {
+    $ticks: $number-of-lines - 1;
     @keyframes ticker {
-        @for $i from 0 through $number-of-lines {
+        @for $i from 0 through $ticks {
             #{$i * 100 / $number-of-lines * 1%} {
                 transform: translate3d(0, -$line-height*$i, 0);
             }
