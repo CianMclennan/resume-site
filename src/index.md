@@ -143,7 +143,7 @@ Instructional Designers and other Programmers.
 ##### **Graduate IT Consultant, Dublin** | _Ireland_
 
 - Worked with the AIB branch software Team to create and maintain branch software. Responsible for Administering the Continuous-Integration server and Communicating with the programmers.
-- Debugged and fixed Issues with AIB’s Document Management System that was developed in house using an IBM Webshere Java Application as a back end and Libre Office on the client side.
+- Debugged and fixed Issues with AIB’s Document Management System that was developed in house using an IBM Websphere Java Application as a back end and Libre Office on the client side.
 - Provided 3rd level software support for specific web apps used in AIB branches.
 - Created batch scripts to automate workflow for many members of the Branch software team.
 
