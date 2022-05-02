@@ -1,0 +1,38 @@
+.main-menu {
+    a {
+        margin: 0 1em;
+        white-space: nowrap;
+        &::before,
+        &::after {
+            position: fixed;
+            opacity: 0;
+            transition: transform 0.3s, opacity 0.2s;
+            color: var(--blue-0);
+        }
+
+        &:hover,
+        &:focus {
+            &::before,
+            &::after {
+                opacity: 1;
+            }
+
+            &:before {
+                transform: translateX(-1em);
+            }
+            &:after {
+                transform: translateX(0.3em);
+            }
+        }
+
+        &::before {
+            content: '[';
+            transform: translateX(1em);
+        }
+
+        &::after {
+            content: ']';
+            transform: translateX(-2.3em);
+        }
+    }
+}

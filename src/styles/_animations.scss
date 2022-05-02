@@ -1,0 +1,29 @@
+@keyframes slideUp {
+    0% {
+        transform: translate3d(0, -5em, 0);
+        opacity: 0;
+    }
+
+    80% {
+        transform: translate3d(0, 0, 0);
+    }
+
+    100% {
+        transform: translate3d(0, 0, 0);
+        opacity: 1;
+    }
+}
+
+@mixin ticker-animation($number-of-lines, $line-height) {
+    @keyframes ticker {
+        @for $i from 0 through $number-of-lines {
+            #{$i * 100 / $number-of-lines * 1%} {
+                transform: translate3d(0, -$line-height*$i, 0);
+            }
+        }
+
+        100% {
+            transform: translate3d(0, 0%, 0);
+        }
+    }
+}
