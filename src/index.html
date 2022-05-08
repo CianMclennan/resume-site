@@ -4,10 +4,16 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
         <link rel="stylesheet" href="./styles.css" media="screen">
-	</head>
+	</head>	
 	<body>
+		<input name='switch-mode' id='switch-mode' class="tgl" type="checkbox" />
+		<span class='theme-btn'>
+			<label class="tgl-txt" for="switch-mode">Theme:</label>
+			<label class="tgl-btn" data-tg-on="LIGHT" data-tg-off="DARK" for="switch-mode"></label>
+		</span>
 		<main>
             { markdown }
         </main>
+		<div class='background'/>
 	</body>
 </html>

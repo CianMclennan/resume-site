@@ -4,10 +4,10 @@
         white-space: nowrap;
         &::before,
         &::after {
-            position: fixed;
+            position: absolute;
             opacity: 0;
             transition: transform 0.3s, opacity 0.2s;
-            color: var(--blue-0);
+            color: var(--main-color);
         }
 
         &:hover,

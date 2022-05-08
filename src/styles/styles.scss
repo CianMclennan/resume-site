@@ -1,8 +1,7 @@
-// @import "https://unpkg.com/open-props@1.3.16/open-props.min.css";
-// @import "https://unpkg.com/open-props@1.3.16/normalize.min.css";
 @import "https://unpkg.com/open-props@1.3.16/fonts.min.css";
 @import "https://unpkg.com/open-props@1.3.16/colors.min.css";
 
+@import 'theme';
 @import 'nav';
 @import 'animations';
 
@@ -15,16 +14,25 @@ body {
     font-size: 1.4rem;
     line-height: 1.6em;
     max-width: 40em;
-    margin: 4em auto;
-    font-family: var(--font-mono);
-    color: var(--blue-0);
-    background-color: var(--gray-9);
+    margin: 0 auto;
+    font-family: var(--font-mono);    
     padding: 2.1em;
 }
 
 main {
     position: relative;
     animation: 3s cubic-bezier(0, 1, 0.5, 1) 0s 1 slideUp;
+    color: var(--main-color);
+}
+
+.background {
+    background-color: var(--background-color);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
 }
 
 #personal-details {
@@ -32,33 +40,33 @@ main {
 }
 
 #work-experience p strong {
-    color: var(--green-4);
+    color: var(--h3-color);
 }
 
 h1 {
-    color: var(--green-6);
+    color: var(--h1-color);
     text-align: center;
     font-size: 2.2rem;
 }
 
 h2 {
-    color: var(--yellow-4);
+    color: var(--h2-color);
     font-size: 1.4em;
 }
 
 h3 {
-    color: var(--green-6);
+    color: var(--h3-color);
 }
 
 h4 {
-    color: var(--yellow-4);
+    color: var(--h4-color);
     margin: 0;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 
     strong {
-        color: var(--yellow-7);
+        color: var(--h4-strong-color);
         white-space: nowrap;
     }
 
@@ -72,14 +80,14 @@ h5 {
 }
 
 a {
-    color: var(--blue-6);
+    color: var(--anchor-color);
 }
 
 ul {
     padding-inline: 0;
 
     li::marker {
-        color: var(--green-4);
+        color: var(--bullet-color);
     }
 }
 
@@ -91,7 +99,7 @@ hr {
     &::before {
         content: '...';
         font-weight: var(--font-weight-8);
-        color: var(--blue-4);
+        color: var(--hr-color);
         letter-spacing: .6em;
     }
 }
@@ -109,7 +117,7 @@ hr {
     }
 
     ul {
-        color: var(--green-4);
+        color: var(--likes-color);
         padding: 0;
         list-style-type: none;
         overflow: hidden;
@@ -128,7 +136,7 @@ footer {
     font-size: 0.8em;
 
     a {
-        color: var(--blue-4);
+        color: var(--hr-color);
     }
 
     p:first-child {

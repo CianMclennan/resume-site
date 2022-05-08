@@ -25,7 +25,8 @@ From a young age I have been passionate about all things related to technology a
 
 In my younger years I wanted to make Games. And after I finished secondary school I went on to do a course in Video Games development. During this time I realised that I had more interest in making software than games. So decided to get my degree in Computer Science.
 
-Later I've worked full time in the e-learning industry making single page applications on demand for a variety of clients and more recently I work for 888sport where I am being given many opportunities to work with many newer web technologies.
+Later I worked full time in the e-learning industry making single page applications on demand for a variety of clients. 
+Currently I work for 888sport where I am being given many opportunities to work with many newer web technologies.
 
 In October 2017 I enrolled as a full-time student for 18 months at GenkiJACS school in Fukuoka to improve my Japanese language skill as much as possible and while there I succeeded in passing the JLPT N3 examination.
 
