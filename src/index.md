@@ -2,9 +2,9 @@
 
 ::: section personal-details
 
-## Front-end Engineer
+## Engineering Team Lead
 
-I like building things.
+I like building things that empower others.
 
 <nav class='main-menu'>
 
@@ -20,40 +20,40 @@ I like building things.
 
 ::: section introduction
 
-I'm a software engineer who is committed to learning and improving their craft. 
-From a young age I have been passionate about all things related to technology and software and as I have grown so has my passion.
+I'm an engineering team lead and software developer with over a decade of experience building high-quality web applications. 
 
-In my younger years I wanted to make Games. And after I finished secondary school I went on to do a course in Video Games development. During this time I realised that I had more interest in making software than games. So decided to get my degree in Computer Science.
+From a young age I have been passionate about all things related to technology and software, and as I've grown, so has my enthusiasm for empowering others through great tooling and automation.
 
-Later I worked full time in the e-learning industry making single page applications on demand for a variety of clients. 
-Currently I work for 888sport where I am being given many opportunities to work with many newer web technologies.
+In my younger years I wanted to make games. After finishing secondary school I completed a course in video game development. During this time I realised I had more interest in making software than games, and later earned a degree in Computer Science.
 
-In October 2017 I enrolled as a full-time student for 18 months at GenkiJACS school in Fukuoka to improve my Japanese language skill as much as possible and while there I succeeded in passing the JLPT N3 examination.
+My professional background spans e-learning, SaaS, and sports betting platforms. I’ve built internal tooling for instructional designers, helped launch CMSs and frontend apps for high-traffic betting sites, and worked across the stack using technologies like React, Redux Toolkit, TypeScript, PostgreSQL, Docker, and AWS Lambda. I place strong focus on accessibility, clean code, and developer experience.
 
-I really enjoy programming and learning new technologies and as a hobby I make small projects for myself. Usually these are to make my life easier in work or study but sometimes my goal is to learn something new.
+In October 2017 I enrolled as a full-time student for 18 months at GenkiJACS in Fukuoka to improve my Japanese. While there I passed the JLPT N3.
+
+I enjoy programming and learning new technologies. I regularly build small tools and automations to make work more efficient or to try out something new.
+
+More recently, I've taken an interest in AI and natural language interfaces and how they can help users and teams work more effectively.
+
+Currently I work as Engineering Team Lead at iheed, an e-learning company that trains doctors and nurses.
 
 e: [ciankm@gmail.com](mailto:ciankm@gmail.com)
 t: [+35383 307 0180](tel://+353833070180)  
 w: [ciankm.com](https://ciankm.com) | [GitHub](https://github.com/CianMclennan)
 
 #### I do
-
-JavaScript, Web and Front-end Development, Nodejs.
+Web and Front-end Engineering, Internal Tools, TypeScript, Full Stack JavaScript
 
 #### I use
-
-React, Redux, Typescript, Jest, WebPack, Nodejs, Sass, Git, Docker, jQuery, PHP.
+React, Redux Toolkit, TypeScript, React Testing Library, Node.js, PostgreSQL, Sass, Git, Docker, Webpack
 
 #### I speak
-
-English, 日本語 and a little Irish.
+English, 日本語 (JLPT N3), and a little Irish. Currently learning Hindi.
 
 #### I like
-
-Music, Games, Traveling, Studying Japanese, Coding, and Playing with Linux.
+Coding, Linux, Travel, Japanese culture, AI, and automation.
 
 #### I'm learning
-Rust, WebAssembly
+Rust, WebAssembly, Hindi
 
 :::
 
@@ -61,31 +61,23 @@ Rust, WebAssembly
 
 ::: section likes
 
-- Javascript
+- TypeScript
+- React
+- Redux Toolkit
+- React Testing Library
+- Node.js
+- PostgreSQL
 - Vim
-- Rust
-- Command-line
-- React
-- Node
-- Shell scripts
+- Linux
 - Automation
-- Typescript
-- HTML
-- CSS
-- Sass
-- jQuery
-- gulp.js
-- handlebars.js
-- Greensock.js
-- React
-- ActionScript 3
-- Objective-C
-- Swift
-- C#
-- Responsive Design
+- Shell scripting
 - Docker
+- Rust
 - Webpack
-- bevy
+- Sass
+- Accessibility
+- Web performance
+- Command-line tools
 
 :::
 
@@ -95,65 +87,56 @@ Rust, WebAssembly
 
 ### Work Experience
 
-#### Front-end Engineer **Dec 2020 – Present**
+#### Engineering Team Lead **October 2023 – Present**  
+##### **iheed, Dublin** | _Ireland_
+
+- Lead the frontend engineering team and collaborate closely with instructional designers and graphic designers to build internal courseware development tools.
+- Designed and built React-based tooling used by non-developers to create and manage educational content for medical professionals.
+- Built and maintained backend integrations with Canvas LMS, Zoho CRM, and Zoho Analytics APIs.
+- Created scalable backend services using TypeScript, PostgreSQL, AWS Lambda, and hosted on Heroku.
+- Established development best practices, improved accessibility standards, and introduced testing with React Testing Library.
+
+---
+
+#### Front-end Engineer **Dec 2020 – Sept 2023**  
 ##### **888Holdings, Dublin** | _Ireland_
 
-- Delivering two web applications for 888sport.com and sisportsbook.com as well as the CMS for those sites which is built with a mixture of React, Redux, Hooks, Styled-components, PHP, and newer concepts in front-end development.
-- Creating and updating unit tests.
-- Created prototype services and developing tools for automating repetitive tasks.
-- Promoted component re-usability & setup icons/assets/theme to have a single source of truth.
-- Addressed technical debt across the system from build to production whilst improving developer experience.
-- Implemented sport streaming feature for the website.
+- Delivered frontend applications for 888sport.com and sisportsbook.com including their CMS.
+- Developed features using React, Redux, Hooks, Styled-components, PHP.
+- Wrote and maintained unit tests.
+- Promoted component re-usability and established a single source of truth for assets and themes.
+- Improved developer experience and addressed technical debt across the stack.
+- Implemented live sports streaming features.
+
 ---
 
-#### Senior Front-end Engineer **May 2013 – January 2020**
-
+#### Senior Front-end Engineer **May 2013 – Jan 2020**  
 ##### **Interactive Services, Dublin** | _Ireland_
 
-- Creating and developing e-learning Single-Page Applications through a range of programming technologies and languages.
-- Produced of courseware content such as questions, interactions, assessments.  
-- Improved the production process by developing reusable components and templates.
-- Experience making web sites accessible for screen readers such as JAWS and Apple Voice Over.
-- Suggested and took charge of implementing a version control system for the company.
-Administer the companies GitLab server.
-- Created the Continuous Integration process for the company using Gitlab and developing a
-build tool based on gulp.js.
-- Taught lessons with programmers and designers and external vendors on what git is and how it
-should be used. As well as going to New Delhi to train our Indian vendors how to use git and
-other technology used by the company.
-- Created mobile and desktop applications for internal use Objective-C for macOS and iOS and
-C# for Windows.
-- Worked as part of a team with Project Manager, Learning Manager, Graphic Designers,
-Instructional Designers and other Programmers.
-- Implementation and documentation of standards within the programming department.
+- Built e-learning SPAs for global clients with a focus on accessibility (JAWS, VoiceOver).
+- Led the transition to Git and implemented CI using GitLab and gulp.js.
+- Developed reusable components and templates to improve delivery speed.
+- Taught git and tooling workshops internally and to vendor teams in India.
+- Built internal tools and desktop/mobile apps in Objective-C, Swift, and C#.
 
-**Note:** In October 2017 – March 2019 I was not working full time for Interactive Services because I was living abroad while studying Japanese.
+**Note:** From Oct 2017 – Mar 2019 I studied Japanese full time and worked part-time remotely.
 
 ---
 
-#### Lounge Host (Part Time) **November 2017 - October 2018**
+#### Lounge Host (Part Time) **Nov 2017 – Oct 2018**  
 ##### **Journeys English School, Fukuoka** | _Japan_
 
-- Facilitated English conversation between students and foreign guests during language exchange.
-- Prepared and cleared language exchange lounge with tea, coffee and snacks before and after every session.
-- Actively Promoted the lounge to the foreign students.
+- Facilitated English conversation during language exchanges.
+- Managed lounge preparation and promotion.
 
 ---
 
-#### Allied Irish Banks (AIB) **June 2012 – May 2013**
-##### **Graduate IT Consultant, Dublin** | _Ireland_
+#### Graduate IT Consultant **Jun 2012 – May 2013**  
+##### **Allied Irish Banks (AIB), Dublin** | _Ireland_
 
-- Worked with the AIB branch software Team to create and maintain branch software. Responsible for Administering the Continuous-Integration server and Communicating with the programmers.
-- Debugged and fixed Issues with AIB’s Document Management System that was developed in house using an IBM Websphere Java Application as a back end and Libre Office on the client side.
-- Provided 3rd level software support for specific web apps used in AIB branches.
-- Created batch scripts to automate workflow for many members of the Branch software team.
-
----
-
-#### O’Sullivans Art Shop **2007 – March 2012**
-##### **Sales Assistant, Dublin** | _Ireland_
-
-Duties include working on the till, Serving customers, cleaning and tiding the shop, labelling goods, stacking the shelves, processed documents and invoices and contacting customers about goods. 2007 to 2013
+- Maintained internal software used by AIB branches.
+- Administered CI servers and provided L3 support.
+- Built automation scripts and resolved document system issues.
 
 :::
 
@@ -165,19 +148,19 @@ Duties include working on the till, Serving customers, cleaning and tiding the s
 
 #### BSc in Computer Science **2009 – 2012**
 ##### **Dublin Institute of Technology, Dublin** | _Ireland_
-Object Oriented Systems, Distributed Systems, Computer Graphics, Client/Server Programming, Databases, Artificial Intelligence.
+Object Oriented Systems, Distributed Systems, Computer Graphics, Client/Server Programming, Databases, AI.
 **Extra Curricular:** DIT iOS development springboard course.
 
-#### Higher National Diploma in Computer Games Design **2007 – 2009**
+#### Higher National Diploma in Computer Games Design **2007 – 2009**  
 ##### **Ballyfermot College of Further Education** | _Ireland_
-3d Modelling/Animation with 3ds Max and Zbrush, Unreal Engine 3(UDK), DX Studio, Flash 2D games, Image editing Photoshop, Gimp. Sound production Soundforge, Reason and Audacity.
+3D Modelling/Animation with 3ds Max and Zbrush, Unreal Engine, Flash games, Photoshop, Reason.
 
 ### Other Qualifications
-#### JLPT N3 - Japanese-Language Proficiency Test **December 2018**
-I have the ability to understand Japanese used in everyday situations. Including causal conversations and basic reading materials.
+#### JLPT N3 – Japanese-Language Proficiency Test **Dec 2018**
+Able to understand everyday Japanese including casual conversations and basic reading material.
 
-#### CELTA **March 2015**
-Certificate in Teaching English to Speakers of Other Languages 2015 – Learned how to structure lessons. Present to many people. Explain things in simple concise ways.
+#### CELTA – Certificate in Teaching English to Speakers of Other Languages **Mar 2015**  
+Trained in structured lesson delivery and clear communication.
 
 :::
 
@@ -185,7 +168,7 @@ Certificate in Teaching English to Speakers of Other Languages 2015 – Learned 
 
 <footer>
 
-This page uses no Javascript and is hand-coded using Sass, [Open Props](https://open-props.style/) & Markdown.
+This page uses no JavaScript and is hand-coded using Sass, [Open Props](https://open-props.style/) & Markdown.
 
 You can view the source for this website on [GitHub](https://github.com/CianMclennan/resume-site).
 
