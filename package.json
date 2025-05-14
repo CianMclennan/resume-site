@@ -1,21 +1,21 @@
 {
-  "name": "resume-site",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
-  "scripts": {
-    "build:base": "cp -a ./public/.htaccess ./build",
-    "build:markdown": "node src/index.js",
-    "build:styles": "node-sass src/styles -o build --output-style=compressed",
-    "build": "rimraf build && mkdir -p build && echo 'BUILDING...' && npm-run-all --parallel build:base build:markdown build:styles"
-  },
-  "author": "Cian Mclennan",
-  "license": "ISC",
-  "dependencies": {
-    "markdown-it": "^13.0.0",
-    "markdown-it-container": "^3.0.0",
-    "node-sass": "^7.0.1",
-    "npm-run-all": "^4.1.5",
-    "rimraf": "^3.0.2"
-  }
+	"name": "resume-site",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/index.js",
+	"scripts": {
+		"build:base": "cp -a ./public/.htaccess ./build",
+		"build:markdown": "node src/index.js",
+		"build:styles": "npx sass src/styles/styles.scss build/styles.css",
+		"build": "rimraf build && mkdir -p build && echo 'BUILDING...' && npm-run-all --parallel build:base build:markdown build:styles"
+	},
+	"author": "Cian Mclennan",
+	"license": "ISC",
+	"dependencies": {
+		"markdown-it": "^13.0.0",
+		"markdown-it-container": "^3.0.0",
+		"npm-run-all": "^4.1.5",
+		"rimraf": "^3.0.2",
+		"sass": "^1.88.0"
+	}
 }
